@@ -1,6 +1,6 @@
 # Quick-Dev-Hacks
 
-#### These are some quick hacks about some problems that I have faced while developing software and that did not have any solution on Google.
+#### These are some quick hacks about some problems that I have faced while developing software and that did not have any solution on Google search, stackoverflow etc.
 
 ## 1. Working with folder links on Edge
 
